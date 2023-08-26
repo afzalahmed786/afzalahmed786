@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afzalahmed786
-- 🌱 I’m currently learning Python,C,HTML,CSS,Javascript
+- 🌱 I’m currently learning Machine Learning,Image Processing and have a keen interest in robotics
 
 <!---
 afzalahmed786/afzalahmed786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
